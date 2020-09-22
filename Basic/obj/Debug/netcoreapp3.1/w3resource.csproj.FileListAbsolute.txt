@@ -1,0 +1,13 @@
+D:\devproject\w3resource\bin\Debug\netcoreapp3.1\w3resource.exe
+D:\devproject\w3resource\bin\Debug\netcoreapp3.1\w3resource.deps.json
+D:\devproject\w3resource\bin\Debug\netcoreapp3.1\w3resource.runtimeconfig.json
+D:\devproject\w3resource\bin\Debug\netcoreapp3.1\w3resource.runtimeconfig.dev.json
+D:\devproject\w3resource\bin\Debug\netcoreapp3.1\w3resource.dll
+D:\devproject\w3resource\bin\Debug\netcoreapp3.1\w3resource.pdb
+D:\devproject\w3resource\obj\Debug\netcoreapp3.1\w3resource.csprojAssemblyReference.cache
+D:\devproject\w3resource\obj\Debug\netcoreapp3.1\w3resource.AssemblyInfoInputs.cache
+D:\devproject\w3resource\obj\Debug\netcoreapp3.1\w3resource.AssemblyInfo.cs
+D:\devproject\w3resource\obj\Debug\netcoreapp3.1\w3resource.csproj.CoreCompileInputs.cache
+D:\devproject\w3resource\obj\Debug\netcoreapp3.1\w3resource.dll
+D:\devproject\w3resource\obj\Debug\netcoreapp3.1\w3resource.pdb
+D:\devproject\w3resource\obj\Debug\netcoreapp3.1\w3resource.genruntimeconfig.cache
